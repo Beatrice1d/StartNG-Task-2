@@ -12,6 +12,6 @@ Guess what, it is now some mins before 3am.
 Lol
 Hey Coding, we are in this together!
 Now, it's 3:15am. I am still on this matter.
-Check out my lucid post for task 2 here: https://forms.gle/kbgarEQvzYGRZqWA8 
+Check out my lucid post for task 2 here: https://lucid.blog/cramwordplay/post/1566612841 
 Okay this time, I really mean it. Goodnight.
 Cheers!
