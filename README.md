@@ -19,7 +19,7 @@ Cheers!
 Hello Everyone,
 So, it's me again.
 This should be a link to my lucid post saying how much the CSS addition has improved the initial HTML.
-However, the Lucid Blog is down so I'd just post this here.
+However, the LUCID BLOG IS DOWN so I'd just post this here.
 The CSS literall brought life to the HTML. I love it!
 Wow! Lots of new things one can play around with.
 For this project (because it's a CV and really a CV can only do with so much designs anyway), I adjusted picture height, image border radius, played around with colours for my headers and some background colours too. Tried to use the class method too.
