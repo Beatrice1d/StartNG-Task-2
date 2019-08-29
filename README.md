@@ -16,6 +16,9 @@ Check out my lucid post for task 2 here: https://lucid.blog/cramwordplay/post/15
 Okay this time, I really mean it. Goodnight.
 Cheers!
 
+TASK 3
+
+HINT: OPEN the file titled TASK 3 on this repository - that's how beautiful CSS can be!
 Hello Everyone,
 So, it's me again.
 This should be a link to my lucid post saying how much the CSS addition has improved the initial HTML.
